@@ -54,13 +54,19 @@ source .venv/bin/activate
 pip install -U pip
 ```
 
-To run the Day 1 part two solution:
+To run the Day 1 part two Python solution:
 
 ```bash
 python3 "Day 1/Part 2/solution.py"
 ```
 
 The script reads `Day 1/Part 1/rotations.txt`, simulates the dial one click at a time, and counts how many times it rests on zero, matching the method described in `part2.md`.
+
+For a Node.js version of the same simulation (no dependencies required):
+
+```bash
+node "Day 1/Part 2/solution.js"
+```
 
 ## Notes
 
