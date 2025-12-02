@@ -19,7 +19,7 @@ Future days will follow the same layout: puzzle statement, puzzle input, and any
 | Day | Status |
 | --- | ------ |
 | 1 | ✅ Completed |
-| 2 | ⬜ Pending |
+| 2 | ✅ Completed |
 | 3 | ⬜ Pending |
 | 4 | ⬜ Pending |
 | 5 | ⬜ Pending |
