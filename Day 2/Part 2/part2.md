@@ -28,4 +28,4 @@ What do you get if you add up all of the invalid IDs using these new rules?
 - Generate every number made by repeating a digit block at least twice (up to the maximum digits found in the input), deduplicating with a set.
 - Intersect that sorted list with the merged puzzle ranges and accumulate their sum.
 
-Running `solution.py` against `Day 2/Part 1/input.txt` yields **44143124633** for the real puzzle input.
+Running `solution.py` against `Day 2/Part 1/input.txt` prints the puzzle answer for the real input.

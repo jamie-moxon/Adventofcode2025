@@ -36,4 +36,4 @@ Simulate the dial exactly as described:
 - For each instruction, determine the step direction (`+1` for right, `-1` for left) and walk one click at a time.
 - After every click, wrap the dial with modulo 100 and increment a counter whenever the dial reads 0, regardless of whether it is the final position of the rotation.
 
-The total count of zero positions reached while processing `Part 1/rotations.txt` is **5815**, which is the required password for part two.
+The script reports the total count of zero positions reached while processing `Part 1/rotations.txt`.
