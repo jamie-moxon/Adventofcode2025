@@ -30,19 +30,6 @@ Future days will follow the same layout: puzzle statement, puzzle input, and any
 | 10 | ⬜ Pending |
 | 11 | ⬜ Pending |
 | 12 | ⬜ Pending |
-| 13 | ⬜ Pending |
-| 14 | ⬜ Pending |
-| 15 | ⬜ Pending |
-| 16 | ⬜ Pending |
-| 17 | ⬜ Pending |
-| 18 | ⬜ Pending |
-| 19 | ⬜ Pending |
-| 20 | ⬜ Pending |
-| 21 | ⬜ Pending |
-| 22 | ⬜ Pending |
-| 23 | ⬜ Pending |
-| 24 | ⬜ Pending |
-| 25 | ⬜ Pending |
 
 ## Running the Solutions
 
