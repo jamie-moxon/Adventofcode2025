@@ -22,7 +22,7 @@ Future days will follow the same layout: puzzle statement, puzzle input, and any
 | 2 | ✅ Completed |
 | 3 | ✅ Completed |
 | 4 | ✅ Completed |
-| 5 | ⬜ Pending |
+| 5 | ✅ Completed |
 | 6 | ⬜ Pending |
 | 7 | ⬜ Pending |
 | 8 | ⬜ Pending |
